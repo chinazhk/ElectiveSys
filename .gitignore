@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+!/db/classes/
+!/log/
+!/db/course_to_teacher/
+!/db/student/
+!/db/admin/
+!/db/school/
+!/db/teacher/
+!/db/course/
